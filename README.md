@@ -4,14 +4,23 @@
 
 具体见：
 xlsxworksheet.h
+
 xlsxworksheet.cpp
+
 xlsxmediafile_p.h
+
 xlsxdrawinganchor_p.h
+
 xlsxdrawing_p.h
+
 xlsxdocument.h
+
 xlsxdocument.cpp
+
 xlsxabstractsheet.h
+
 xlsxabstractsheet.cpp
+
 
 QtXlsx is a library that can read and write Excel files. It doesn't require Microsoft Excel and can be used in any platform that Qt5 supported.
 The library can be used to
